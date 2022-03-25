@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TraderJerry
+- 👋 Hi, I’m @TraderJerry.
 - 👀 I’m interested in c/c++.
 - 🌱 I’m currently learning opencascade.
 - 💞️ I’m looking to collaborate on CAD modeling etc.
